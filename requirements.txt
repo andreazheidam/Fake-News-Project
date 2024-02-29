@@ -1,7 +1,6 @@
 # Format -> dependency1==X.Y.Z 
 pandas == 2.1.1
 matplotlib == 3.8.0
-re == 
 clean-text == 0.6.0
 nltk == 3.8.1
 
